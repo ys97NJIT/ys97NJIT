@@ -29,13 +29,6 @@
 
 ---
 
-## 🔹 Connect with Me  
-💻 **GitHub:** [Your GitHub Profile Link]  
-📫 **Email:** [Your Email]  
-🌐 **LinkedIn:** [Your LinkedIn Profile]  
-
----
-
 💡 **Let's collaborate on AI, Robotics, and Machine Learning projects!** 🚀  
 <!---
 ys97NJIT/ys97NJIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
