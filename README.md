@@ -11,7 +11,6 @@
 ## 🔹 About Me  
 - 🎓 **4th-year Computer Science Student at NJIT**  
 - 🤖 **Interested in AI-driven Robotics & Autonomous Vehicles**  
-- 🔬 **Researching Machine Learning, Computer Vision, and Semantic SLAM**  
 - 🌍 **Exploring AGV → AMR transition & intelligent automation systems**  
 - 📡 **Passionate about combining AI & Robotics for real-world impact**  
 
