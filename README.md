@@ -2,7 +2,7 @@
 
 ---
 
-#👋 Hi, I'm Yonghyeon!
+# 👋 Hi, I'm Yonghyeon!
 
 🚀 **AI & Robotics Enthusiast | Machine Learning | AGV & AMR Development**  
 🔍 **Aspiring AI/ML Engineer | Passionate about Autonomous Systems**  
