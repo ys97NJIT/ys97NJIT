@@ -17,33 +17,9 @@
 
 ---
 
-## 🔹 Current Projects  
-### 🚗 **AI-Powered AGV to AMR Transition**
-- Implementing **SLAM (Simultaneous Localization and Mapping)** for navigation  
-- Developing **Reinforcement Learning-based Path Optimization**  
-- Experimenting with **ROS & LiDAR for autonomous decision-making**  
-
-### 🤖 **Machine Learning & Computer Vision**
-- Building **YOLO-based Object Detection Models** for real-time robotics  
-- Working on **Semantic SLAM** to enhance autonomous navigation  
-- Experimenting with **Deep Learning models (TensorFlow & PyTorch)**  
-
-### 📊 **Election Data Science & Predictive Analytics**
-- Developing **Voter Sentiment Analysis using NLP**  
-- Creating **Election Forecasting Models with Machine Learning**  
-- Visualizing real-time political trends with **Data Science & AI**  
-
----
-
 ## 🔹 Technical Skills  
 ### **Programming Languages:**  
-- 🐍 Python | C++ | Java | TypeScript  
-
-### **AI & ML Frameworks:**  
-- 🤖 TensorFlow | PyTorch | OpenCV | Scikit-Learn | YOLO  
-
-### **Robotics & Autonomous Systems:**  
-- 🛠️ ROS (Robot Operating System) | Gazebo | LiDAR | SLAM  
+- 🐍 Python | C++ | Java | TypeScript | C | JavaScript | CSS | Kotlin
 
 ### **Databases & Big Data:**  
 - 🗄️ MongoDB | PostgreSQL | Pandas | Spark  
